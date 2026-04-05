@@ -1,0 +1,10 @@
+{
+    Filter = {
+        Bundles = (
+            "com.tencent.wetype.keyboard"
+        );
+        Executables = (
+            "wxkb_plugin"
+        );
+    };
+}
