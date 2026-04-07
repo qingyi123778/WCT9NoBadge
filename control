@@ -1,9 +1,9 @@
-Package: com.lxcloud.wct9nobadge
-Name: WCT9NoBadge
+Package: com.lxcloud.wct26nobadge
+Name: WCT26NoBadge
 Version: 1.0-1
-Architecture: iphoneos-arm64
-Depends: mobilesubstrate, firmware (>= 14.0)
-Description: 隐藏微信输入法九键数字小标
-Author: 凉心
-Maintainer: 凉心
+Architecture: iphoneos-arm64 arm64e
+Description: 隐藏微信输入法26键按键数字/符号小标，保留上滑输入原生功能
+Maintainer: 52Lxcloud
+Author: 52Lxcloud
 Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
